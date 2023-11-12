@@ -6,6 +6,9 @@ for i in range(10):
      print (f"The square of {i} is {functions.square(i)}")
 
 or you can invoke like this
+remember 
+if functions
+
 """
 
 from functions import square
